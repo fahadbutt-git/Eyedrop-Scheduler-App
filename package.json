@@ -1,8 +1,8 @@
 {
-  "name": "eyedrop-app",
+  "name": "Eyedrop-Scheduler-App",
   "private": true,
   "version": "0.0.1",
-  "homepage": "https://fahadbutt-git.github.io/eyedrop-app",
+  "homepage": "https://fahadbutt-git.github.io/Eyedrop-Scheduler-App",
   "type": "module",
   "scripts": {
     "dev": "vite",
